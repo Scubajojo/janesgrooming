@@ -1,3 +1,4 @@
 [submodule "themes/hugo-business-frontpage-theme"]
   path = themes/hugo-business-frontpage-theme
-  url = "https://github.com/BlackrockDigital/startbootstrap-business-frontpage"
+  url = "https://github.com/cowboysmall-tools/hugo-business-frontpage-theme"
+ 
