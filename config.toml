@@ -1,14 +1,15 @@
 # Page settings
 
+baseURL = "https://frosty-noether-b3bb5f.netlify.com/"
+themesDir = "themes"
 languageCode = "en"
 title = "Business Frontpage - Start Bootstrap Template"
 theme = "hugo-business-frontpage-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
-baseURL = "https://frosty-noether-b3bb5f.netlify.com/"
-themesDir = "themes"
-theme = "hugo-business-frontpage-theme"
+
+
 
 
 
