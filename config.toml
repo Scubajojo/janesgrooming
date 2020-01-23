@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://app.netlify.com/sites/laughing-babbage-4b6d2f/"
+baseURL = "https://laughing-babbage-4b6d2f.netlify.com/"
 languageCode = "en"
 title = "Business Frontpage - Start Bootstrap Template"
 theme = "hugo-business-frontpage-theme"
