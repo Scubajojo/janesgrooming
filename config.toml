@@ -8,11 +8,6 @@ theme = "hugo-business-frontpage-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
-
-
-
-
-
 [params]
     author = "CowboySmall"
     description = "Business Frontpage - A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header"
