@@ -6,7 +6,7 @@ theme = "hugo-business-frontpage-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
-baseURL = "https://example.com"
+baseURL = "https://frosty-noether-b3bb5f.netlify.com/"
 themesDir = "themes"
 theme = "hugo-business-frontpage-theme"
 
