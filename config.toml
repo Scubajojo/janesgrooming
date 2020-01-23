@@ -1,13 +1,14 @@
 # Page settings
 
-baseURL = "https://laughing-babbage-4b6d2f.netlify.com/"
 languageCode = "en"
 title = "Business Frontpage - Start Bootstrap Template"
 theme = "hugo-business-frontpage-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
-
+baseURL = "https://example.com"
+themesDir = "themes"
+theme = "hugo-business-frontpage-theme"
 
 
 
